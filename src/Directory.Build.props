@@ -1,0 +1,10 @@
+﻿<Project>
+  <PropertyGroup>
+    <Authors>Facundo Glaeser</Authors>
+    <Description>Provides concrete eventbus implementation for Rabbit MQ.</Description>
+    <PackageTags>eventbus rabbitmq</PackageTags>
+    <RepositoryUrl>https://github.com/derechaprohibida/Infra.EventBus.RabbitMQ</RepositoryUrl>
+    <Version>0.1.0</Version>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+</Project>
